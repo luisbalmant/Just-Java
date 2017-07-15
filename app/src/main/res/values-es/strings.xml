@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_order">ORDEN</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="email_subject_order_for">JustJava | Orden para</string>
+    <string name="new_name">NOMBRE</string>
+    <string name="order_add_chocolate">¿Agregar Chocolate?</string>
+    <string name="order_add_whipped_cream">¿Agregar la Crema Batida?</string>
+    <string name="order_name">Nombre:</string>
+    <string name="order_quantity">Cantidad:</string>
+    <string name="order_thank_you">Gracias!</string>
+    <string name="order_total">Total:</string>
+    <string name="quantity">Cantidad</string>
+    <string name="toppings">Coberturas</string>
+    <string name="whipped_cream">Crema batida</string>
+</resources>
